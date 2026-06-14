@@ -105,19 +105,6 @@ Every trained model is **worse than lag-1 in MAE**. This is the central negative
 
 > ⚠️ SHAP values describe how the model uses its inputs — not causal relationships.
 
----
-
-## Repository Structure
-
-```
-├── 01_data_preprocessing.ipynb     # Merging, cleaning, feature engineering
-├── 02_eda.ipynb                    # ACF analysis, scatter plots, distributions
-├── 03_modeling_consumption.ipynb   # Full + diagnostic models for consumption
-├── 04_modeling_co2.ipynb           # Full + diagnostic models for CO₂ intensity
-├── 05_shap_analysis.ipynb          # SHAP feature importance and plots
-├── 06_conditional_error_analysis.ipynb  # Error breakdown by hour, season, renewables
-└── data/                           # Raw and processed data (not included)
-```
 
 ---
 

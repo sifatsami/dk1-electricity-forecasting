@@ -102,6 +102,7 @@ Every trained model is **worse than lag-1 in MAE**. This is the central negative
 - **Diagnostic no-lag-1 model** (the meaningful result):
   - *Consumption*: lagged net exchange and total production emerge as dominant predictors
   - *CO₂*: `conventional_lag1` and `renewables_lag1` dominate — physically coherent with DK1's generation mix
+  - ![CO2 Intensity Results](https://github.com/sifatsami/dk1-electricity-forecasting/blob/main/CO2.png?raw=true)
 
 > ⚠️ SHAP values describe how the model uses its inputs — not causal relationships.
 

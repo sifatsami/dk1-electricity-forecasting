@@ -1,8 +1,6 @@
 # Forecasting Electricity Consumption and CO₂ Intensity in DK1
 
 **MSc Data Science Thesis — Syddansk Universitet (SDU), 2026**  
-Sifat Islam · Md Abdul Wahid Raju  
-Supervisor: Christian Damsgaard Jørgensen
 
 ---
 
